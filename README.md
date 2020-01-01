@@ -1,2 +1,0 @@
-# dados
-Created with CodeSandbox
